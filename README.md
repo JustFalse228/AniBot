@@ -1,6 +1,13 @@
-This is anime search bot for telegram.
+## This is anime search bot for telegram.
+Anime, Anime and Anime
 
-Functionality:
+## Installing
+Python version 3.9.10
+```shell
+git clone https://github.com/JustFalse228/AniBot
+pip3 install -r requirements.txt
+```
+## Functionality:
 - Add anime in viewed list
 - Add anime in view list
 
