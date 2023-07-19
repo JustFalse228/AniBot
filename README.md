@@ -7,6 +7,9 @@ Python version 3.9.10
 git clone https://github.com/JustFalse228/AniBot
 pip3 install -r requirements.txt
 ```
+## Settings
+- In the main.py file need to enter the BotFather bot token
+- In AnimeTitles > db.py setting postgres connect
 ## Functionality:
 - Add anime in viewed list
 - Add anime in view list
