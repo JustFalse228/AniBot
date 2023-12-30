@@ -1,5 +1,5 @@
 ## This is anime search bot for telegram.
-Anime, Anime and Anime
+Anime
 
 ## Installing
 Python version 3.9.10
